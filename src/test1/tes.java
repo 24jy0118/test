@@ -7,5 +7,6 @@ public class tes {
 		System.out.println("Hello world");
 		System.out.println("Hello world");
 		System.out.println("24jy0121");
+		System.out.println("24jy0121");
 	}
 }
